@@ -1,3 +1,7 @@
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=435&lines=Hi%2C+I'm+Vedant+Balpande" alt="Typing SVG" /></a>
+</div>
+
 # 💫 About Me:
 🔭 I’m currently a Full-Stack Developer<br>👯 I’m looking to collaborate on Full Stack project<br>🌱 I’m currently learning AI/ML and Blockchain<br>
 
